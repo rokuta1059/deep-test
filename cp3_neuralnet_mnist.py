@@ -3,7 +3,7 @@ import sys, os
 import numpy as np
 import pickle
 from dataset import load_mnist
-from common import sigmoid, softmax
+from common.functions import sigmoid, softmax
 
 local = "D:\\Git_Workspace\\deep-test\\sample_weight.pkl"
 

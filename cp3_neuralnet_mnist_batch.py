@@ -2,7 +2,7 @@ import sys, os
 import numpy as np
 import pickle
 from dataset import load_mnist
-from common import sigmoid, softmax
+from common.functions import sigmoid, softmax
 
 """ 
     배치: 하나로 묶은 데이터
