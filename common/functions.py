@@ -1,5 +1,5 @@
 import numpy as np
-
+ 
 def sigmoid(x):
     """3.2.1 시그모이드 함수 
     
